@@ -9,7 +9,7 @@ DP-AMF is a deep learning framework designed for single-view 3D reconstruction. 
 
 The pipeline of DF3D is shown below:
 
-![Workflow](readme/ML_Visuhttps.png)
+![Workflow](readme/process.pdf)
 
 ---
 
