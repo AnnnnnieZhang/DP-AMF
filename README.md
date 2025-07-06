@@ -1,7 +1,7 @@
-# DF3D: Diffusion-Guided Multi-Modal Fusion for Single-View 3D Reconstruction
+# DP-AMF: Depth-Prior–Guided Adaptive Multi-Modal and Global–Local Fusion for Single-View 3D Reconstruction
 
 ## Overview
-DF3D is a deep learning framework designed for single-view 3D reconstruction. This project combines geometry and texture information, leveraging depth priors to enhance reconstruction quality, making it suitable for generating high-fidelity 3D models in complex scenes.
+DP-AMF is a deep learning framework designed for single-view 3D reconstruction. This project combines geometry and texture information, leveraging depth priors to enhance reconstruction quality, making it suitable for generating high-fidelity 3D models in complex scenes.
 
 ---
 
@@ -32,8 +32,8 @@ The texture reconstruction results are shown below:
 Follow these steps to set up the environment:
 
 ```bash
-conda create -n DF3D python=3.8 
-conda activate DF3D
+conda create -n DP-AMF python=3.8 
+conda activate DP-AMF
 
 pip install -r requirements.txt
 ```
